@@ -224,10 +224,10 @@
 	"buffers":
 	[
 		{
-			"file": "prob1.rb",
+			"file": "euler_helper.rb",
 			"settings":
 			{
-				"buffer_size": 490,
+				"buffer_size": 456,
 				"line_ending": "Unix"
 			}
 		}
@@ -304,6 +304,9 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/project_euler/prob1.rb",
+		"/home/oren/ruby_projects/project_euler/prob2.rb",
+		"/home/oren/ruby_projects/project_euler/euler_helper.rb",
 		"/home/oren/ruby_projects/project_euler/README.md",
 		"/home/oren/ruby_projects/tcg_spree/Gemfile",
 		"/home/oren/ruby_projects/tcg_spree/config/application.rb",
@@ -428,10 +431,7 @@
 		"/home/oren/rails_projects/thechosengifts/app/views/layouts/_shim.html.erb",
 		"/home/oren/rails_projects/thechosengifts/app/controllers/static_pages_controller.rb",
 		"/home/oren/rails_projects/thechosengifts/Guardfile",
-		"/home/oren/rails_projects/thechosengifts/.rspec",
-		"/home/oren/.bash_login",
-		"/home/oren/.bash_log",
-		"/home/oren/.ssh/id_rsa.pub"
+		"/home/oren/rails_projects/thechosengifts/.rspec"
 	],
 	"find":
 	{
@@ -491,18 +491,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "prob1.rb",
+					"file": "euler_helper.rb",
 					"settings":
 					{
-						"buffer_size": 490,
+						"buffer_size": 456,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								490,
-								490
+								0,
+								0
 							]
 						],
 						"settings":
@@ -641,7 +641,7 @@
 							},
 							"sublimelinter_wrap_find": true,
 							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-							"word_wrap": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
