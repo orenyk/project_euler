@@ -1,7 +1,7 @@
 require_relative 'euler_helper'
 
 def prob2
-		time do
+	time do
 		# every third fibonacci number is even starting w/ 2, so n%3 == 2
 		sum = 0
 		max = 4000000
