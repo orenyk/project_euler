@@ -125,3 +125,15 @@ def prime_factors(n)
 	end
 	fps.sort!
 end
+
+# function to check for a palindome number
+def isPalindrome(num)
+	num_str = num.to_s
+	num_rev = num_str.reverse
+
+	if num_str == num_rev
+		true
+	else
+		false
+	end
+end
