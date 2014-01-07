@@ -300,6 +300,8 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/project_euler/prob6.rb",
+		"/home/oren/ruby_projects/project_euler/prob6",
 		"/home/oren/ruby_projects/project_euler/euler_helper.rb",
 		"/home/oren/ruby_projects/project_euler/prob5.rb",
 		"/home/oren/.config/sublime-text-2/Packages/SublimeLinter/README.md",
@@ -425,9 +427,7 @@
 		"/home/oren/rails_projects/thechosengifts/app/views/static_pages/about.html.erb",
 		"/home/oren/rails_projects/thechosengifts/app/views/static_pages/contact.html.erb",
 		"/home/oren/rails_projects/thechosengifts/config/database.yml",
-		"/home/oren/rails_projects/thechosengifts/config/routes.rb",
-		"/home/oren/rails_projects/thechosengifts/app/helpers/application_helper.rb",
-		"/home/oren/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
+		"/home/oren/rails_projects/thechosengifts/config/routes.rb"
 	],
 	"find":
 	{
@@ -446,6 +446,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sum",
 			".vals",
 			" \n",
 			"\n, ",
