@@ -138,6 +138,56 @@ def isPalindrome(num)
 	end
 end
 
+# function to recursively search for primes
+def next_prime(primes)
+	last_prime = primes.last
+	test = last_prime
+	found = false
+	while !found
+		test = test + 2
+		max = Math.sqrt(test).div(1)
+
+		for fact in primes do
+			if test % fact == 0
+				break
+			end
+			if fact > max
+				found = true
+			end
+		end
+	end
+	primes.push(test)
+end
+
+# function for testing primes from Euler solution
+def isPrimeMod(num)
+	if num == 1
+		return false
+	elsif num < 4 # 2 and 3 are prime
+		return true
+	elsif num % 2 == 0
+		return false
+	elsif num < 9 # 4, 6, and 8 are already out, so 5 and 7
+		return true
+	elsif num % 3 == 0
+		return false
+	else
+		r = Math.sqrt(num).div(1) # sqrt(num) rounded to greatest integer such that r*r<=num
+		f = 5
+		while f <= r
+			if num % f == 0
+				return false
+			end
+			if num % (f + 2) == 0
+				return false
+			end
+			f += 6
+		end
+		return true
+	end
+end
+
+
 # list of first 1,000 primes
 def primes1000
 	return [2, 3, 5, 7, 11, 13, 17, 19, 23, 29,
