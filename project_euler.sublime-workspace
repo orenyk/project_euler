@@ -243,7 +243,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 33.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -295,7 +295,7 @@
 				"Package Control: List Packages"
 			]
 		],
-		"width": 399.0
+		"width": 414.0
 	},
 	"console":
 	{
@@ -312,6 +312,11 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/project_euler/prob011.rb",
+		"/home/oren/ruby_projects/project_euler/prob011.txt",
+		"/home/oren/ruby_projects/codejam1/conway3.rb",
+		"/home/oren/ruby_projects/project_euler/Gemfile",
+		"/home/oren/ruby_projects/codejam1/conway1.rb",
 		"/home/oren/ruby_projects/project_euler/prob7.rb",
 		"/home/oren/ruby_projects/project_euler/prob10.rb",
 		"/home/oren/ruby_projects/project_euler/PASS.txt",
@@ -434,12 +439,7 @@
 		"/home/oren/.ssh/identity.heroku.personal",
 		"/home/oren/rails_projects/sample_app/G",
 		"/home/oren/rails_projects/thechosengifts/app/views/layouts/_footer.html.erb",
-		"/home/oren/rails_projects/thechosengifts/app/views/layouts/_header.html.erb",
-		"/home/oren/rails_projects/thechosengifts/app/views/static_pages/home.html.erb",
-		"/home/oren/rails_projects/thechosengifts/app/assets/stylesheets/custom.css.scss",
-		"/home/oren/rails_projects/thechosengifts/spec/requests/static_pages_spec.rb",
-		"/home/oren/rails_projects/thechosengifts/app/views/layouts/application.html.erb",
-		"/home/oren/rails_projects/thechosengifts/spec/helpers/application_helper_spec.rb"
+		"/home/oren/rails_projects/thechosengifts/app/views/layouts/_header.html.erb"
 	],
 	"find":
 	{
@@ -458,6 +458,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"@grid",
+			"grid",
 			"n",
 			"sum",
 			".vals",
@@ -505,6 +507,7 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -662,7 +665,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2153.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
