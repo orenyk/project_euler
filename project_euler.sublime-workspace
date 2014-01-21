@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"max",
+				"max_length"
+			],
+			[
+				"collatz",
+				"collatz_length"
+			],
+			[
+				"chain",
+				"chain_lengths"
+			],
+			[
 				"find_",
 				"find_solution"
 			],
@@ -30,10 +42,6 @@
 			[
 				"divis",
 				"divisor_count"
-			],
-			[
-				"max",
-				"max_prime"
 			],
 			[
 				"static",
@@ -340,6 +348,8 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/project_euler/prob014.rb",
+		"/home/oren/ruby_projects/codejam1/conway1.rb",
 		"/home/oren/ruby_projects/project_euler/prob013.txt",
 		"/home/oren/ruby_projects/project_euler/euler_helper.rb",
 		"/home/oren/ruby_projects/project_euler/prob013.rb",
@@ -349,7 +359,6 @@
 		"/home/oren/ruby_projects/project_euler/prob011.txt",
 		"/home/oren/ruby_projects/codejam1/conway3.rb",
 		"/home/oren/ruby_projects/project_euler/Gemfile",
-		"/home/oren/ruby_projects/codejam1/conway1.rb",
 		"/home/oren/ruby_projects/project_euler/prob7.rb",
 		"/home/oren/ruby_projects/project_euler/prob10.rb",
 		"/home/oren/ruby_projects/project_euler/PASS.txt",
@@ -466,8 +475,7 @@
 		"/home/oren/rails_projects/thechosengifts/.git/COMMIT_EDITMSG",
 		"/home/oren/rails_projects/thechosengifts/.git/config",
 		"/home/oren/.ssh/config",
-		"/home/oren/rails_projects/sample_app/.git/config",
-		"/home/oren/.ssh/identity.heroku.personal.pub"
+		"/home/oren/rails_projects/sample_app/.git/config"
 	],
 	"find":
 	{
