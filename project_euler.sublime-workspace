@@ -4,12 +4,36 @@
 		"selected_items":
 		[
 			[
-				"max",
-				"max_prime"
+				"find_",
+				"find_solution"
 			],
 			[
 				"num",
-				"num_len"
+				"num_divisors"
+			],
+			[
+				"last",
+				"last_count"
+			],
+			[
+				"prime",
+				"prime_factors"
+			],
+			[
+				"prim",
+				"prime_factors"
+			],
+			[
+				"diviso",
+				"divisor_count"
+			],
+			[
+				"divis",
+				"divisor_count"
+			],
+			[
+				"max",
+				"max_prime"
 			],
 			[
 				"static",
@@ -247,6 +271,10 @@
 		"selected_items":
 		[
 			[
+				"canc",
+				"Build: Cancel"
+			],
+			[
 				"pac",
 				"Package Control: Install Package"
 			],
@@ -295,7 +323,7 @@
 				"Package Control: List Packages"
 			]
 		],
-		"width": 414.0
+		"width": 647.0
 	},
 	"console":
 	{
@@ -312,6 +340,8 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/project_euler/prob007.rb",
+		"/home/oren/ruby_projects/project_euler/prob012.rb",
 		"/home/oren/ruby_projects/project_euler/prob011.rb",
 		"/home/oren/ruby_projects/project_euler/prob011.txt",
 		"/home/oren/ruby_projects/codejam1/conway3.rb",
@@ -437,9 +467,7 @@
 		"/home/oren/rails_projects/sample_app/.git/config",
 		"/home/oren/.ssh/identity.heroku.personal.pub",
 		"/home/oren/.ssh/identity.heroku.personal",
-		"/home/oren/rails_projects/sample_app/G",
-		"/home/oren/rails_projects/thechosengifts/app/views/layouts/_footer.html.erb",
-		"/home/oren/rails_projects/thechosengifts/app/views/layouts/_header.html.erb"
+		"/home/oren/rails_projects/sample_app/G"
 	],
 	"find":
 	{
@@ -458,6 +486,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Dn1",
+			"fact",
 			"@grid",
 			"grid",
 			"n",
@@ -522,8 +552,8 @@
 						"selection":
 						[
 							[
-								1997,
-								1997
+								1800,
+								1800
 							]
 						],
 						"settings":
@@ -665,7 +695,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2808.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

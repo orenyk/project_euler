@@ -26,3 +26,5 @@ def prob7Mod(n)
 		puts "Prime \##{n} is #{candidate}"
 	end
 end
+
+prob7Mod(7000)
