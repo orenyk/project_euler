@@ -4,6 +4,58 @@
 		"selected_items":
 		[
 			[
+				"sol_",
+				"sols_in_progress"
+			],
+			[
+				"find",
+				"find_max_path"
+			],
+			[
+				"cur",
+				"cur_path"
+			],
+			[
+				"sols",
+				"sols_in_progress"
+			],
+			[
+				"max",
+				"max_sol"
+			],
+			[
+				"ne",
+				"next_step"
+			],
+			[
+				"other",
+				"other_new_path"
+			],
+			[
+				"best",
+				"best_new_path"
+			],
+			[
+				"other_",
+				"other_new_path"
+			],
+			[
+				"best_n",
+				"best_new_pos"
+			],
+			[
+				"bes",
+				"best_new_pos"
+			],
+			[
+				"sols_",
+				"sols_in_progress"
+			],
+			[
+				"sol",
+				"sols_in_progress"
+			],
+			[
 				"count",
 				"count_chars"
 			],
@@ -38,10 +90,6 @@
 			[
 				"rou",
 				"routes_2"
-			],
-			[
-				"max",
-				"max_length"
 			],
 			[
 				"collatz",
@@ -388,6 +436,10 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/project_euler/prob067.rb",
+		"/home/oren/ruby_projects/project_euler/prob018.rb",
+		"/home/oren/ruby_projects/project_euler/prob018.txt",
+		"/home/oren/ruby_projects/project_euler/prob067.txt",
 		"/home/oren/ruby_projects/project_euler/prob017.rb",
 		"/home/oren/ruby_projects/project_euler/prob016.rb",
 		"/home/oren/ruby_projects/project_euler/PASS.txt",
@@ -511,11 +563,7 @@
 		"/home/oren/rails_projects/sample_app/config/database.yml",
 		"/home/oren/rails_projects/skillshare_rails/Gemfile",
 		"/home/oren/.bashrc",
-		"/home/oren/rails_projects/skillshare_rails/README.md",
-		"/home/oren/.gemrc",
-		"/home/oren/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-		"/home/oren/rails_projects/thechosengifts/Gemfile",
-		"/home/oren/rails_projects/thechosengifts/.git/COMMIT_EDITMSG"
+		"/home/oren/rails_projects/skillshare_rails/README.md"
 	],
 	"find":
 	{
