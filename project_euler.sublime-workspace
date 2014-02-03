@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"firs",
+				"first_sundays"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
 				"sol_",
 				"sols_in_progress"
 			],
@@ -436,6 +444,7 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/project_euler/prob019.rb",
 		"/home/oren/ruby_projects/project_euler/prob067.rb",
 		"/home/oren/ruby_projects/project_euler/prob018.rb",
 		"/home/oren/ruby_projects/project_euler/prob018.txt",
@@ -562,8 +571,7 @@
 		"/home/oren/rails_projects/sample_app/Gemfile",
 		"/home/oren/rails_projects/sample_app/config/database.yml",
 		"/home/oren/rails_projects/skillshare_rails/Gemfile",
-		"/home/oren/.bashrc",
-		"/home/oren/rails_projects/skillshare_rails/README.md"
+		"/home/oren/.bashrc"
 	],
 	"find":
 	{
@@ -582,6 +590,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"30",
+			"31",
+			"month",
 			"puts",
 			"@digits.length",
 			"n",
