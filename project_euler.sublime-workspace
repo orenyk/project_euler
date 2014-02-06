@@ -359,7 +359,7 @@
 			"file": "euler_helper.rb",
 			"settings":
 			{
-				"buffer_size": 8996,
+				"buffer_size": 9179,
 				"line_ending": "Unix"
 			}
 		}
@@ -444,12 +444,13 @@
 	},
 	"file_history":
 	[
-		"/home/oren/ruby_projects/project_euler/prob019.rb",
-		"/home/oren/ruby_projects/project_euler/prob067.rb",
+		"/home/oren/ruby_projects/project_euler/prob020.rb",
+		"/home/oren/ruby_projects/project_euler/prob017.rb",
 		"/home/oren/ruby_projects/project_euler/prob018.rb",
 		"/home/oren/ruby_projects/project_euler/prob018.txt",
+		"/home/oren/ruby_projects/project_euler/prob019.rb",
+		"/home/oren/ruby_projects/project_euler/prob067.rb",
 		"/home/oren/ruby_projects/project_euler/prob067.txt",
-		"/home/oren/ruby_projects/project_euler/prob017.rb",
 		"/home/oren/ruby_projects/project_euler/prob016.rb",
 		"/home/oren/ruby_projects/project_euler/PASS.txt",
 		"/home/oren/ruby_projects/project_euler/prob015.rb",
@@ -570,8 +571,7 @@
 		"/home/oren/rails_projects/thechosengifts_com/thechosengifts_com.sublime-project",
 		"/home/oren/rails_projects/sample_app/Gemfile",
 		"/home/oren/rails_projects/sample_app/config/database.yml",
-		"/home/oren/rails_projects/skillshare_rails/Gemfile",
-		"/home/oren/.bashrc"
+		"/home/oren/rails_projects/skillshare_rails/Gemfile"
 	],
 	"find":
 	{
@@ -656,15 +656,15 @@
 					"file": "euler_helper.rb",
 					"settings":
 					{
-						"buffer_size": 8996,
+						"buffer_size": 9179,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								353,
-								353
+								3218,
+								3218
 							]
 						],
 						"settings":

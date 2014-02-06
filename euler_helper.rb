@@ -187,6 +187,17 @@ def isPrimeMod(num)
 	end
 end
 
+# function to extract an array of a number's digits
+def digitArray(num)
+	digs = []
+	while num > 9
+		num, last_digit = num.divmod(10)
+		digs << last_digit
+	end
+	digs << num
+	digs
+end
+
 
 # list of first 1,000 primes
 def primes1000
